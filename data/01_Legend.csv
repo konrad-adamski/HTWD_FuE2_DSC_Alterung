@@ -1,0 +1,295 @@
+Sample Name,Name of Original DSC Measurement,Aging Level
+0-PE-1_1,0-PE-6,Pristine LDPE and PET
+0-PE-1_2,0-PE-7,Pristine LDPE and PET
+0-PE-1_3,0-PE-8,Pristine LDPE and PET
+0-PE-1_4,0-PE-9,Pristine LDPE and PET
+0-PE-1_5,0-PE-10,Pristine LDPE and PET
+0-PE-2_1,0-PE-11,Pristine LDPE and PET
+0-PE-2_2,0-PE-12,Pristine LDPE and PET
+0-PE-2_3,0-PE-13,Pristine LDPE and PET
+0-PE-2_4,0-PE-14,Pristine LDPE and PET
+0-PE-2_5,0-PE-15,Pristine LDPE and PET
+0-PE-3_1,0-PE-16,Pristine LDPE and PET
+0-PE-3_2,0-PE-17,Pristine LDPE and PET
+0-PE-3_3,0-PE-18,Pristine LDPE and PET
+0-PE-3_4,0-PE-19,Pristine LDPE and PET
+0-PE-3_5,0-PE-20,Pristine LDPE and PET
+0-PE-4_1,0-PE-21,Pristine LDPE and PET
+0-PE-4_2,0-PE-22,Pristine LDPE and PET
+0-PE-4_3,0-PE-23,Pristine LDPE and PET
+0-PE-4_4,0-PE-24,Pristine LDPE and PET
+0-PE-4_5,0-PE-25,Pristine LDPE and PET
+0-PET-1_1,0-PET-1,Pristine LDPE and PET
+0-PET-1_2,0-PET-2,Pristine LDPE and PET
+0-PET-1_3,0-PET-3,Pristine LDPE and PET
+0-PET-1_4,0-PET-4,Pristine LDPE and PET
+0-PET-1_5,0-PET-5,Pristine LDPE and PET
+0-PET-2_1,0-PET-6,Pristine LDPE and PET
+0-PET-2_2,0-PET-7,Pristine LDPE and PET
+0-PET-2_3,0-PET-8,Pristine LDPE and PET
+0-PET-2_4,0-PET-9,Pristine LDPE and PET
+0-PET-2_5,0-PET-10,Pristine LDPE and PET
+0-PET-3_1,0-PET-16,Pristine LDPE and PET
+0-PET-3_2,0-PET-17,Pristine LDPE and PET
+0-PET-3_3,0-PET-18,Pristine LDPE and PET
+0-PET-3_4,0-PET-19,Pristine LDPE and PET
+0-PET-3_5,0-PET-20,Pristine LDPE and PET
+0-PET-4_1,0-PET-21,Pristine LDPE and PET
+0-PET-4_2,0-PET-22,Pristine LDPE and PET
+0-PET-4_3,0-PET-26,Pristine LDPE and PET
+0-PET-4_4,0-PET-24,Pristine LDPE and PET
+0-PET-4_5,0-PET-25,Pristine LDPE and PET
+1-UV-PE-1_1,UV-PE-61,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_2,UV-PE-62,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_3,UV-PE-63,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_4,UV-PE-64,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_5,UV-PE-65,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_1,UV-PE-66,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_2,UV-PE-67,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_3,UV-PE-68,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_4,UV-PE-69,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_5,UV-PE-70,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_1,UV-PE-71,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_2,UV-PE-72,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_3,UV-PE-73,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_4,UV-PE-74,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_5,UV-PE-75,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_1,UV-PE-76,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_2,UV-PE-77,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_3,UV-PE-78,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_4,UV-PE-79,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_5,UV-PE-80,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_1,UV-PET-1,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_2,UV-PET-2,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_3,UV-PET-3,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_4,UV-PET-4,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_5,UV-PET-5,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_1,UV-PET-6,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_2,UV-PET-7,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_3,UV-PET-8,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_4,UV-PET-9,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_5,UV-PET-79,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_1,UV-PET-11,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_2,UV-PET-12,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_3,UV-PET-13,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_4,UV-PET-14,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_5,UV-PET-15,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_1,UV-PET-16,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_2,UV-PET-17,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_3,UV-PET-19,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_4,UV-PET-20,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_5,UV-PET-78,First UV-cycle (4 weeks irradiation)
+2-UV-PE-1_1,UV-PE-21,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_2,UV-PE-22,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_3,UV-PE-23,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_4,UV-PE-24,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_5,UV-PE-25,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_1,UV-PE-26,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_2,UV-PE-27,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_3,UV-PE-28,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_4,UV-PE-29,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_5,UV-PE-30,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_1,UV-PE-31,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_2,UV-PE-32,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_3,UV-PE-33,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_4,UV-PE-34,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_5,UV-PE-35,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_1,UV-PE-36,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_2,UV-PE-37,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_3,UV-PE-38,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_4,UV-PE-39,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_5,UV-PE-40,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_1,UV-PET-21,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_2,UV-PET-22,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_3,UV-PET-23,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_4,UV-PET-24,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_5,UV-PET-25,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_1,UV-PET-26,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_2,UV-PET-27,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_3,UV-PET-28,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_4,UV-PET-29,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_5,UV-PET-30,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_1,UV-PET-31,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_2,UV-PET-32,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_3,UV-PET-33,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_4,UV-PET-34,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_5,UV-PET-35,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_1,UV-PET-36,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_2,UV-PET-37,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_3,UV-PET-38,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_4,UV-PET-76,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_5,UV-PET-77,Second UV-cycle (8 weeks irradiation)
+3-UV-PE-1_1,UV-PE-41,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_2,UV-PE-42,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_3,UV-PE-43,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_4,UV-PE-44,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_5,UV-PE-45,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_1,UV-PE-46,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_2,UV-PE-47,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_3,UV-PE-48,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_4,UV-PE-49,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_5,UV-PE-50,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_1,UV-PE-51,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_2,UV-PE-52,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_3,UV-PE-53,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_4,UV-PE-54,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_5,UV-PE-55,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_1,UV-PE-56,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_2,UV-PE-57,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_3,UV-PE-58,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_4,UV-PE-59,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_5,UV-PE-60,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_1,UV-PET-41,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_2,UV-PET-42,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_3,UV-PET-43,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_4,UV-PET-44,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_5,UV-PET-45,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_1,UV-PET-46,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_2,UV-PET-47,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_3,UV-PET-48,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_4,UV-PET-49,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_5,UV-PET-50,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_1,UV-PET-51,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_2,UV-PET-52,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_3,UV-PET-53,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_4,UV-PET-54,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_5,UV-PET-55,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_1,UV-PET-56,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_2,UV-PET-57,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_3,UV-PET-58,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_4,UV-PET-59,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_5,UV-PET-60,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_1,UV-PET-61,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_2,UV-PET-62,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_3,UV-PET-63,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_4,UV-PET-64,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_5,UV-PET-65,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_1,UV-PET-66,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_2,UV-PET-67,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_3,UV-PET-68,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_4,UV-PET-69,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_5,UV-PET-70,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_1,UV-PET-71,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_2,UV-PET-72,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_3,UV-PET-73,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_4,UV-PET-74,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_5,UV-PET-75,Third UV-cycle (12 weks irradiation)
+1-EBT-PE-1_1,eb-PE-1,First EBT
+1-EBT-PE-1_2,eb-PE-2,First EBT
+1-EBT-PE-1_3,eb-PE-3,First EBT
+1-EBT-PE-1_4,eb-PE-4,First EBT
+1-EBT-PE-1_5,eb-PE-5,First EBT
+1-EBT-PE-2_1,eb-PE-6,First EBT
+1-EBT-PE-2_2,eb-PE-7,First EBT
+1-EBT-PE-2_3,eb-PE-8,First EBT
+1-EBT-PE-2_4,eb-PE-9,First EBT
+1-EBT-PE-2_5,eb-PE-10,First EBT
+1-EBT-PE-3_1,eb-PE-11,First EBT
+1-EBT-PE-3_2,eb-PE-12,First EBT
+1-EBT-PE-3_3,eb-PE-13,First EBT
+1-EBT-PE-3_4,eb-PE-14,First EBT
+1-EBT-PE-3_5,eb-PE-15,First EBT
+1-EBT-PE-4_1,eb-PE-16,First EBT
+1-EBT-PE-4_2,eb-PE-17,First EBT
+1-EBT-PE-4_3,eb-PE-18,First EBT
+1-EBT-PE-4_4,eb-PE-19,First EBT
+1-EBT-PE-4_5,eb-PE-20,First EBT
+1-EBT-PET-1_1,eb-PET-67,First EBT
+1-EBT-PET-1_2,eb-PET-68,First EBT
+1-EBT-PET-1_3,eb-PET-69,First EBT
+1-EBT-PET-1_4,eb-PET-70,First EBT
+1-EBT-PET-1_5,eb-PET-71,First EBT
+1-EBT-PET-2_1,eb-PET-72,First EBT
+1-EBT-PET-2_2,eb-PET-73,First EBT
+1-EBT-PET-2_3,eb-PET-74,First EBT
+1-EBT-PET-2_4,eb-PET-75,First EBT
+1-EBT-PET-2_5,eb-PET-76,First EBT
+1-EBT-PET-3_1,eb-PET-77,First EBT
+1-EBT-PET-3_2,eb-PET-78,First EBT
+1-EBT-PET-3_3,eb-PET-79,First EBT
+1-EBT-PET-3_4,eb-PET-80,First EBT
+1-EBT-PET-3_5,eb-PET-81,First EBT
+1-EBT-PET-4_1,eb-PET-16,First EBT
+1-EBT-PET-4_2,eb-PET-17,First EBT
+1-EBT-PET-4_3,eb-PET-18,First EBT
+1-EBT-PET-4_4,eb-PET-19,First EBT
+1-EBT-PET-4_5,eb-PET-20,First EBT
+2-EBT-PE-1_1,eb-PE-21,Second EBT
+2-EBT-PE-1_2,eb-PE-22,Second EBT
+2-EBT-PE-1_3,eb-PE-23,Second EBT
+2-EBT-PE-1_4,eb-PE-24,Second EBT
+2-EBT-PE-1_5,eb-PE-25,Second EBT
+2-EBT-PE-2_1,eb-PE-26,Second EBT
+2-EBT-PE-2_2,eb-PE-27,Second EBT
+2-EBT-PE-2_3,eb-PE-28,Second EBT
+2-EBT-PE-2_4,eb-PE-29,Second EBT
+2-EBT-PE-2_5,eb-PE-30,Second EBT
+2-EBT-PE-3_2,eb-PE-32,Second EBT
+2-EBT-PE-3_3,eb-PE-33,Second EBT
+2-EBT-PE-3_4,eb-PE-34,Second EBT
+2-EBT-PE-3_5,eb-PE-35,Second EBT
+2-EBT-PE-4_1,eb-PE-36,Second EBT
+2-EBT-PE-4_2,eb-PE-37,Second EBT
+2-EBT-PE-4_3,eb-PE-38,Second EBT
+2-EBT-PE-4_4,eb-PE-39,Second EBT
+2-EBT-PE-4_5,eb-PE-61,Second EBT
+1-EBT-PET-1_1,eb-PET-61,Second EBT
+1-EBT-PET-1_2,eb-PET-22,Second EBT
+1-EBT-PET-1_3,eb-PET-23,Second EBT
+1-EBT-PET-1_4,eb-PET-24,Second EBT
+1-EBT-PET-1_5,eb-PET-25,Second EBT
+1-EBT-PET-2_1,eb-PET-26,Second EBT
+1-EBT-PET-2_2,eb-PET-27,Second EBT
+1-EBT-PET-2_3,eb-PET-28,Second EBT
+1-EBT-PET-2_4,eb-PET-29,Second EBT
+1-EBT-PET-2_5,eb-PET-30,Second EBT
+1-EBT-PET-3_1,eb-PET-31,Second EBT
+1-EBT-PET-3_2,eb-PET-32,Second EBT
+1-EBT-PET-3_3,eb-PET-33,Second EBT
+1-EBT-PET-3_4,eb-PET-34,Second EBT
+1-EBT-PET-3_5,eb-PET-35,Second EBT
+1-EBT-PET-4_1,eb-PET-36,Second EBT
+1-EBT-PET-4_2,eb-PET-37,Second EBT
+1-EBT-PET-4_3,eb-PET-38,Second EBT
+1-EBT-PET-4_4,eb-PET-39,Second EBT
+1-EBT-PET-4_5,eb-PET-40,Second EBT
+3-EBT-PE-1_1,eb-PE-41,Third EBT
+3-EBT-PE-1_2,eb-PE-42,Third EBT
+3-EBT-PE-1_3,eb-PE-43,Third EBT
+3-EBT-PE-1_4,eb-PE-44,Third EBT
+3-EBT-PE-1_5,eb-PE-62,Third EBT
+3-EBT-PE-2_1,eb-PE-46,Third EBT
+3-EBT-PE-2_2,eb-PE-47,Third EBT
+3-EBT-PE-2_3,eb-PE-48,Third EBT
+3-EBT-PE-2_4,eb-PE-49,Third EBT
+3-EBT-PE-2_5,eb-PE-50,Third EBT
+3-EBT-PE-3_1,eb-PE-51,Third EBT
+3-EBT-PE-3_2,eb-PE-52,Third EBT
+3-EBT-PE-3_3,eb-PE-53,Third EBT
+3-EBT-PE-3_4,eb-PE-54,Third EBT
+3-EBT-PE-3_5,eb-PE-55,Third EBT
+3-EBT-PE-4_1,eb-PE-56,Third EBT
+3-EBT-PE-4_2,eb-PE-57,Third EBT
+3-EBT-PE-4_3,eb-PE-58,Third EBT
+3-EBT-PE-4_4,eb-PE-59,Third EBT
+3-EBT-PE-4_5,eb-PE-60,Third EBT
+3-EBT-PET-1_1,eb-PET-41,Third EBT
+3-EBT-PET-1_2,eb-PET-42,Third EBT
+3-EBT-PET-1_3,eb-PET-43,Third EBT
+3-EBT-PET-1_4,eb-PET-44,Third EBT
+3-EBT-PET-1_5,eb-PET-45,Third EBT
+3-EBT-PET-2_1,eb-PET-46,Third EBT
+3-EBT-PET-2_2,eb-PET-47,Third EBT
+3-EBT-PET-2_3,eb-PET-48,Third EBT
+3-EBT-PET-2_4,eb-PET-49,Third EBT
+3-EBT-PET-2_5,eb-PET-50,Third EBT
+3-EBT-PET-3_1,eb-PET-51,Third EBT
+3-EBT-PET-3_2,eb-PET-52,Third EBT
+3-EBT-PET-3_3,eb-PET-53,Third EBT
+3-EBT-PET-3_4,eb-PET-54,Third EBT
+3-EBT-PET-3_5,eb-PET-55,Third EBT
+3-EBT-PET-4_1,eb-PET-62,Third EBT
+3-EBT-PET-4_2,eb-PET-63,Third EBT
+3-EBT-PET-4_3,eb-PET-64,Third EBT
+3-EBT-PET-4_4,eb-PET-65,Third EBT
+3-EBT-PET-4_5,eb-PET-66,Third EBT

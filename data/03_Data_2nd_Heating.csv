@@ -1,0 +1,293 @@
+Sample Name,Name of Original DSC Measurement,Mass in mg,∆Hm in Jg-1,Segment,TStart in °C,TEnd in °C,Tm in °C,Peak Signal Characterisation_Bimodal,Peak Signal Characterisation_Sharp Monodal,Peak Signal Characterisation_Wide Monodal,Peak Signal Characterisation_Left Tail,Peak Signal Characterisation_Right Tail,Peak Signal Characterisation_Left Shoulder,Peak Signal Characterisation_Right Shoulder,Peak Signal Characterisation,Peak Signal Characterisation_Quasibimodal,Aging Level
+0-PE-1_1,0-PE-6,1.17,108.1,2nd Heating,50.0,118.38,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-1_2,0-PE-7,1.22,107.9,2nd Heating,50.0,119.3,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-1_3,0-PE-8,1.19,108.1,2nd Heating,50.0,118.9,107.6,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-1_4,0-PE-9,1.27,109.4,2nd Heating,50.0,118.2,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-1_5,0-PE-10,1.41,107.1,2nd Heating,50.0,119.0,107.8,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-2_1,0-PE-11,1.48,111.7,2nd Heating,50.0,118.67,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-2_2,0-PE-12,1.44,113.7,2nd Heating,50.0,119.2,107.5,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-2_3,0-PE-13,1.42,110.3,2nd Heating,50.0,123.1,106.6,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-2_4,0-PE-14,1.49,114.0,2nd Heating,50.0,118.85,108.1,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-2_5,0-PE-15,1.42,114.8,2nd Heating,50.0,118.06,108.0,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-3_1,0-PE-16,1.4,115.1,2nd Heating,50.0,120.0,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-3_2,0-PE-17,1.44,112.1,2nd Heating,50.0,120.0,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-3_3,0-PE-18,1.1,113.7,2nd Heating,50.0,120.0,107.4,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-3_4,0-PE-19,1.33,115.1,2nd Heating,50.0,120.0,107.7,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-3_5,0-PE-20,1.44,113.1,2nd Heating,50.0,118.0,107.8,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-4_2,0-PE-22,1.47,112.0,2nd Heating,51.3,119.13,108.2,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-4_3,0-PE-23,1.39,113.7,2nd Heating,50.4,119.45,108.0,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-4_4,0-PE-24,1.5,113.7,2nd Heating,51.36,123.15,108.6,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PE-4_5,0-PE-25,1.22,113.0,2nd Heating,51.3,119.36,108.0,0,x,0,l,0.0,0,0.0,0,0,Pristine LDPE and PET
+0-PET-1_1,0-PET-1,1.44,28.88,2nd Heating,200.0,253.77,230.2,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-1_2,0-PET-2,1.35,30.34,2nd Heating,200.79,256.3,230.5,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-1_3,0-PET-3,1.39,30.0,2nd Heating,200.0,254.25,229.8,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-1_4,0-PET-4,1.28,29.29,2nd Heating,200.0,254.59,230.2,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-1_5,0-PET-5,1.34,31.94,2nd Heating,200.0,255.31,229.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-2_1,0-PET-6,1.42,28.06,2nd Heating,197.73,251.2,231.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-2_2,0-PET-7,1.08,26.2,2nd Heating,201.21,251.22,231.1,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-2_3,0-PET-8,1.33,28.07,2nd Heating,199.86,252.59,230.8,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-2_4,0-PET-9,1.39,26.33,2nd Heating,199.64,251.15,229.8,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-2_5,0-PET-10,1.29,28.25,2nd Heating,199.1,251.15,228.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-3_1,0-PET-16,1.33,29.16,2nd Heating,203.02,252.13,230.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-3_2,0-PET-17,1.42,29.19,2nd Heating,201.78,250.53,230.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-3_3,0-PET-18,1.43,29.46,2nd Heating,200.56,252.82,230.9,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-3_4,0-PET-19,1.28,28.78,2nd Heating,203.79,253.83,230.9,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-3_5,0-PET-20,1.26,30.23,2nd Heating,200.22,252.53,230.8,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-4_1,0-PET-21,1.16,28.3,2nd Heating,205.48,251.33,230.3,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-4_2,0-PET-22,1.17,27.74,2nd Heating,203.7,251.66,228.7,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-4_3,0-PET-26,1.16,27.82,2nd Heating,204.8,252.3,231.4,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-4_4,0-PET-24,1.29,28.81,2nd Heating,203.86,252.52,230.3,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+0-PET-4_5,0-PET-25,1.42,29.82,2nd Heating,203.7,253.95,230.3,x,0,0,x,0.0,0,0.0,1<2,0,Pristine LDPE and PET
+1-UV-PE-1_1,UV-PE-61,1.27,108.4,2nd Heating,59.0,120.76,107.5,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_2,UV-PE-62,1.41,107.0,2nd Heating,59.9,118.34,107.6,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_3,UV-PE-63,1.28,108.7,2nd Heating,59.0,119.5,107.4,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_4,UV-PE-64,1.5,109.3,2nd Heating,58.8,118.55,107.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-1_5,UV-PE-65,1.06,104.1,2nd Heating,58.8,120.78,106.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_1,UV-PE-66,1.36,106.7,2nd Heating,60.9,118.17,107.5,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_2,UV-PE-67,1.25,107.9,2nd Heating,58.57,119.7,107.6,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_3,UV-PE-68,1.49,107.0,2nd Heating,58.6,118.91,107.7,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_4,UV-PE-69,1.35,106.3,2nd Heating,61.55,119.23,107.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-2_5,UV-PE-70,1.4,105.9,2nd Heating,61.14,120.9,107.9,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_1,UV-PE-71,1.37,109.0,2nd Heating,59.2,119.09,107.9,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_2,UV-PE-72,1.5,108.7,2nd Heating,59.0,119.858,107.9,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_3,UV-PE-73,1.44,106.5,2nd Heating,59.2,119.54,108.0,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_4,UV-PE-74,1.51,107.6,2nd Heating,59.2,118.61,107.9,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-3_5,UV-PE-75,1.21,108.0,2nd Heating,59.43,119.08,107.4,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_1,UV-PE-76,1.43,106.36,2nd Heating,60.7,120.33,107.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_2,UV-PE-77,1.25,104.7,2nd Heating,59.0,119.18,107.5,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_3,UV-PE-78,1.31,105.5,2nd Heating,59.3,118.32,107.7,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_4,UV-PE-79,1.5,104.5,2nd Heating,60.7,118.66,107.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PE-4_5,UV-PE-80,1.44,105.3,2nd Heating,61.6,118.3,107.8,0,x,0,l,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_1,UV-PET-1,1.38,36.85,2nd Heating,207.3,256.3,235.3,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_2,UV-PET-2,1.32,36.73,2nd Heating,207.7,257.7,235.6,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_3,UV-PET-3,1.56,38.31,2nd Heating,205.2,256.7,235.1,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_4,UV-PET-4,1.41,36.87,2nd Heating,208.8,257.1,235.2,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-1_5,UV-PET-5,1.31,35.91,2nd Heating,204.0,256.5,234.6,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_1,UV-PET-6,1.22,37.92,2nd Heating,205.7,258.0,235.2,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_2,UV-PET-7,1.17,36.82,2nd Heating,206.0,257.6,234.9,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_3,UV-PET-8,1.34,35.54,2nd Heating,207.1,258.8,234.9,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_4,UV-PET-9,1.26,37.34,2nd Heating,207.7,257.8,235.1,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-2_5,UV-PET-79,1.19,36.53,2nd Heating,209.03,258.0,234.0,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_1,UV-PET-11,1.38,37.58,2nd Heating,206.5,255.9,234.5,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_2,UV-PET-12,1.51,38.44,2nd Heating,205.7,257.9,235.1,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_3,UV-PET-13,1.53,38.25,2nd Heating,209.1,257.5,234.4,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_4,UV-PET-14,1.38,37.15,2nd Heating,206.1,256.3,234.8,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-3_5,UV-PET-15,1.31,37.28,2nd Heating,207.0,257.1,234.9,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_1,UV-PET-16,1.21,37.11,2nd Heating,207.8,256.6,235.3,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_2,UV-PET-17,1.18,35.93,2nd Heating,207.6,255.9,234.3,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_3,UV-PET-19,1.11,36.49,2nd Heating,207.9,256.1,234.2,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_4,UV-PET-20,1.4,38.49,2nd Heating,206.4,256.3,234.2,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+1-UV-PET-4_5,UV-PET-78,1.13,35.32,2nd Heating,205.6,257.4,232.9,x,0,0,s,0.0,0,0.0,0,0,First UV-cycle (4 weeks irradiation)
+2-UV-PE-1_1,UV-PE-21,1.2,113.7,2nd Heating,50.7,116.46,107.8,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_2,UV-PE-22,1.42,114.4,2nd Heating,50.7,118.58,108.1,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_3,UV-PE-23,1.35,112.8,2nd Heating,50.7,118.63,108.3,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_4,UV-PE-24,1.27,112.4,2nd Heating,50.7,119.3,108.2,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-1_5,UV-PE-25,1.5,113.9,2nd Heating,50.7,118.36,108.0,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_1,UV-PE-26,1.11,111.7,2nd Heating,50.9,115.1,107.8,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_2,UV-PE-27,1.27,111.7,2nd Heating,50.0,117.7,107.9,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_3,UV-PE-28,1.44,113.3,2nd Heating,50.0,117.8,108.0,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_4,UV-PE-29,1.34,111.8,2nd Heating,50.0,117.2,108.2,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-2_5,UV-PE-30,1.49,112.0,2nd Heating,50.0,117.2,107.9,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_1,UV-PE-31,1.12,113.5,2nd Heating,50.5,117.77,107.7,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_2,UV-PE-32,1.46,110.3,2nd Heating,50.58,121.75,108.0,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_3,UV-PE-33,1.46,111.6,2nd Heating,50.616,120.49,108.2,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_4,UV-PE-34,1.16,113.7,2nd Heating,50.75,118.69,108.1,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-3_5,UV-PE-35,1.19,110.9,2nd Heating,50.5,118.54,107.8,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_1,UV-PE-36,1.21,111.8,2nd Heating,50.0,118.37,108.3,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_2,UV-PE-37,1.28,113.4,2nd Heating,50.0,118.49,108.1,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_3,UV-PE-38,1.45,114.7,2nd Heating,50.0,118.25,108.0,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_4,UV-PE-39,1.16,114.7,2nd Heating,50.0,118.53,107.9,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PE-4_5,UV-PE-40,1.17,115.5,2nd Heating,50.0,117.9,107.8,0,x,0,l,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_1,UV-PET-21,1.28,34.39,2nd Heating,207.9,256.9,234.4,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_2,UV-PET-22,1.4,36.05,2nd Heating,207.9,256.6,234.5,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_3,UV-PET-23,1.27,34.95,2nd Heating,207.9,257.0,234.4,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_4,UV-PET-24,1.33,34.65,2nd Heating,207.9,256.6,234.4,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-1_5,UV-PET-25,1.33,33.77,2nd Heating,207.9,256.3,234.1,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_1,UV-PET-26,1.14,35.65,2nd Heating,206.3,255.7,234.4,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_2,UV-PET-27,1.34,35.14,2nd Heating,206.3,256.1,234.2,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_3,UV-PET-28,1.35,35.61,2nd Heating,206.3,255.9,234.2,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_4,UV-PET-29,1.24,34.94,2nd Heating,206.3,257.1,233.7,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-2_5,UV-PET-30,1.29,34.95,2nd Heating,206.3,256.7,234.0,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_1,UV-PET-31,1.42,35.6,2nd Heating,205.7,255.26,234.3,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_2,UV-PET-32,1.26,35.02,2nd Heating,205.7,254.86,233.8,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_3,UV-PET-33,1.28,34.56,2nd Heating,205.7,254.66,233.5,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_4,UV-PET-34,1.46,34.86,2nd Heating,205.7,253.6,233.7,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-3_5,UV-PET-35,1.12,33.59,2nd Heating,205.7,254.95,233.9,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_1,UV-PET-36,1.19,35.31,2nd Heating,204.0,255.95,234.2,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_2,UV-PET-37,1.39,36.07,2nd Heating,204.0,254.92,234.2,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_3,UV-PET-38,1.35,35.48,2nd Heating,204.0,256.7,233.2,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_4,UV-PET-76,1.45,35.78,2nd Heating,204.4,255.7,232.3,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+2-UV-PET-4_5,UV-PET-77,1.44,37.17,2nd Heating,204.4,255.49,234.1,x,0,0,s,0.0,0,0.0,0,0,Second UV-cycle (8 weeks irradiation)
+3-UV-PE-1_1,UV-PE-41,1.48,119.8,2nd Heating,50.127,119.43,107.7,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_2,UV-PE-42,1.27,117.0,2nd Heating,50.0,119.29,106.7,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_3,UV-PE-43,1.37,118.6,2nd Heating,50.0,118.87,107.6,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_4,UV-PE-44,1.41,116.3,2nd Heating,50.0,118.16,107.3,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-1_5,UV-PE-45,1.47,116.8,2nd Heating,50.0,118.97,107.8,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_1,UV-PE-46,1.33,122.9,2nd Heating,50.0,120.0,107.1,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_2,UV-PE-47,1.36,120.7,2nd Heating,50.785,120.23,107.9,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_3,UV-PE-48,1.44,120.0,2nd Heating,50.08,120.97,107.7,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_4,UV-PE-49,1.37,111.6,2nd Heating,50.0,122.8,106.6,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-2_5,UV-PE-50,1.5,119.5,2nd Heating,50.05,120.2,107.4,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_1,UV-PE-51,1.49,117.5,2nd Heating,50.0,119.89,107.8,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_2,UV-PE-52,1.35,118.6,2nd Heating,50.0,121.88,107.4,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_3,UV-PE-53,1.3,119.8,2nd Heating,50.0,120.1,107.4,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_4,UV-PE-54,1.33,119.2,2nd Heating,50.0,120.63,107.5,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-3_5,UV-PE-55,1.35,120.5,2nd Heating,50.0,120.71,107.8,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_1,UV-PE-56,1.27,117.0,2nd Heating,50.0,120.94,107.4,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_2,UV-PE-57,1.32,118.3,2nd Heating,50.0,123.71,106.8,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_3,UV-PE-58,1.19,117.9,2nd Heating,50.0,118.59,107.6,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_4,UV-PE-59,1.46,121.3,2nd Heating,50.0,122.52,107.9,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PE-4_5,UV-PE-60,1.4,121.1,2nd Heating,50.0,120.0,107.6,0,x,0,l,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_1,UV-PET-41,1.34,36.22,2nd Heating,207.16,255.11,234.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_2,UV-PET-42,1.21,34.85,2nd Heating,207.65,254.94,233.4,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_3,UV-PET-43,1.47,35.51,2nd Heating,205.53,255.47,233.1,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_4,UV-PET-44,1.27,35.16,2nd Heating,206.13,256.18,234.3,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-1_5,UV-PET-45,1.27,35.75,2nd Heating,205.37,255.01,232.2,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_1,UV-PET-46,1.3,34.84,2nd Heating,207.1,253.43,233.9,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_2,UV-PET-47,1.45,35.61,2nd Heating,207.3,253.66,231.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_3,UV-PET-48,1.17,35.71,2nd Heating,206.47,253.99,232.4,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_4,UV-PET-49,1.27,35.01,2nd Heating,205.1,253.95,232.9,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-2_5,UV-PET-50,1.53,33.93,2nd Heating,205.72,253.84,232.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_1,UV-PET-51,1.53,35.5,2nd Heating,207.5,256.52,233.9,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_2,UV-PET-52,1.42,34.4,2nd Heating,207.45,256.33,235.2,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_3,UV-PET-53,1.48,34.1,2nd Heating,207.4,255.51,230.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_4,UV-PET-54,1.41,33.23,2nd Heating,207.65,254.24,232.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-3_5,UV-PET-55,1.37,34.45,2nd Heating,207.25,253.76,233.3,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_1,UV-PET-56,1.46,36.11,2nd Heating,206.6,257.03,233.2,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_2,UV-PET-57,1.23,37.38,2nd Heating,205.93,256.64,233.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_3,UV-PET-58,1.39,32.78,2nd Heating,205.92,255.85,233.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_4,UV-PET-59,1.38,35.94,2nd Heating,206.6,258.81,233.9,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-4_5,UV-PET-60,1.33,34.34,2nd Heating,206.28,255.84,233.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_1,UV-PET-61,1.3,33.45,2nd Heating,205.0,252.95,230.2,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_2,UV-PET-62,1.31,31.64,2nd Heating,205.0,251.76,230.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_3,UV-PET-63,1.42,33.26,2nd Heating,205.12,252.44,230.2,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_4,UV-PET-64,1.22,32.84,2nd Heating,205.03,252.87,230.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-1_5,UV-PET-65,1.23,31.75,2nd Heating,205.19,253.49,230.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_1,UV-PET-66,1.22,30.3,2nd Heating,207.16,252.01,229.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_2,UV-PET-67,1.54,32.01,2nd Heating,206.69,251.38,229.1,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_3,UV-PET-68,1.3,31.9,2nd Heating,207.15,251.62,232.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_4,UV-PET-69,1.34,31.58,2nd Heating,206.0,252.3,231.0,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-2_5,UV-PET-70,1.43,32.21,2nd Heating,206.03,252.09,230.3,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_1,UV-PET-71,1.27,31.45,2nd Heating,206.8,250.86,229.5,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_2,UV-PET-72,1.27,32.62,2nd Heating,206.8,251.46,229.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_3,UV-PET-73,1.39,31.83,2nd Heating,207.16,251.88,229.7,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_4,UV-PET-74,1.18,30.72,2nd Heating,206.8,250.0,229.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+3-UV-PET-control-3_5,UV-PET-75,1.17,30.72,2nd Heating,206.8,250.3,229.8,x,0,0,s,0.0,0,0.0,0,0,Third UV-cycle (12 weks irradiation)
+1-EBT-PE-1_1,eb-PE-1,1.18,86.79,2nd Heating,58.01,114.42,98.2,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-1_2,eb-PE-2,1.25,84.7,2nd Heating,58.01,116.1,97.3,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-1_3,eb-PE-3,1.07,86.94,2nd Heating,58.01,115.24,98.0,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-1_4,eb-PE-4,1.16,86.21,2nd Heating,58.01,114.61,97.2,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-1_5,eb-PE-5,1.16,85.46,2nd Heating,58.01,118.28,97.4,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-2_1,eb-PE-6,1.44,86.94,2nd Heating,58.0,112.04,97.7,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-2_2,eb-PE-7,1.05,89.58,2nd Heating,58.5,113.0,98.5,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-2_3,eb-PE-8,1.15,86.32,2nd Heating,59.35,112.04,97.5,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-2_4,eb-PE-9,1.27,85.76,2nd Heating,58.83,113.0,97.7,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-2_5,eb-PE-10,1.16,86.55,2nd Heating,58.43,112.81,98.4,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-3_1,eb-PE-11,1.08,90.29,2nd Heating,58.13,113.41,96.9,1=2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-3_2,eb-PE-12,1.28,87.66,2nd Heating,58.04,115.88,96.3,1=2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-3_3,eb-PE-13,1.19,89.98,2nd Heating,58.0,113.9,98.6,1=2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-3_4,eb-PE-14,1.23,89.14,2nd Heating,58.0,114.51,97.2,1=2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-3_5,eb-PE-15,1.49,89.86,2nd Heating,58.0,115.06,97.7,1=2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-4_1,eb-PE-16,1.21,86.24,2nd Heating,58.26,117.87,98.1,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-4_2,eb-PE-17,1.08,87.45,2nd Heating,58.0,114.66,97.8,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-4_3,eb-PE-18,1.13,84.94,2nd Heating,58.0,112.12,97.0,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-4_4,eb-PE-19,1.21,85.45,2nd Heating,58.0,115.55,97.9,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PE-4_5,eb-PE-20,1.23,87.28,2nd Heating,58.0,114.94,97.9,1>2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-1_1,eb-PET-67,1.24,33.08,2nd Heating,202.12,254.05,230.2,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-1_2,eb-PET-68,1.31,33.94,2nd Heating,202.2,255.8,230.6,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-1_3,eb-PET-69,1.16,35.2,2nd Heating,202.01,253.44,231.6,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-1_4,eb-PET-70,1.36,32.65,2nd Heating,203.46,256.2,229.7,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-1_5,eb-PET-71,1.38,37.31,2nd Heating,203.56,255.99,232.3,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-2_1,eb-PET-72,1.3,34.07,2nd Heating,203.63,253.48,230.8,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-2_2,eb-PET-73,1.46,34.92,2nd Heating,203.37,251.68,231.5,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-2_3,eb-PET-74,1.18,33.65,2nd Heating,204.22,253.58,232.2,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-2_4,eb-PET-75,1.29,34.67,2nd Heating,203.7,254.75,232.8,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-2_5,eb-PET-76,1.38,34.87,2nd Heating,203.69,255.73,231.7,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-3_1,eb-PET-77,1.08,33.89,2nd Heating,202.0,254.2,232.0,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-3_2,eb-PET-78,1.28,33.58,2nd Heating,202.2,254.06,232.2,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-3_3,eb-PET-79,1.19,34.67,2nd Heating,203.8,253.81,233.5,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-3_4,eb-PET-80,1.23,35.54,2nd Heating,203.71,254.2,232.3,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-3_5,eb-PET-81,1.49,33.75,2nd Heating,204.47,255.06,230.4,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-4_1,eb-PET-16,1.08,34.27,2nd Heating,206.5,253.35,232.0,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-4_2,eb-PET-17,1.21,35.47,2nd Heating,204.63,254.02,232.7,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-4_3,eb-PET-18,1.07,34.0,2nd Heating,205.95,252.88,233.7,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-4_4,eb-PET-19,1.35,33.82,2nd Heating,205.91,252.34,232.3,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+1-EBT-PET-4_5,eb-PET-20,1.49,35.52,2nd Heating,205.897,255.59,234.2,1<2,0,0,s,0.0,0,0.0,0,0,First EBT
+2-EBT-PE-1_1,eb-PE-21,1.15,71.66,2nd Heating,59.2,112.8,94.0,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-1_2,eb-PE-22,1.46,75.05,2nd Heating,59.36,109.75,95.4,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-1_3,eb-PE-23,1.23,72.36,2nd Heating,59.2,112.37,94.4,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-1_4,eb-PE-24,1.24,76.3,2nd Heating,59.43,112.45,95.4,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-1_5,eb-PE-25,1.45,74.23,2nd Heating,59.2,109.79,95.1,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-2_1,eb-PE-26,1.17,73.79,2nd Heating,59.2,112.93,94.2,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-2_2,eb-PE-27,1.35,75.8,2nd Heating,59.35,112.94,94.6,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-2_3,eb-PE-28,1.29,74.28,2nd Heating,58.74,111.35,95.2,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-2_4,eb-PE-29,1.2,73.01,2nd Heating,58.3,111.98,95.3,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-2_5,eb-PE-30,1.33,75.47,2nd Heating,59.2,112.44,95.2,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-3_2,eb-PE-32,1.27,73.1,2nd Heating,59.6,109.9,94.3,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-3_3,eb-PE-33,1.3,73.87,2nd Heating,58.32,113.02,94.4,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-3_4,eb-PE-34,1.2,74.71,2nd Heating,58.5,110.01,94.5,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-3_5,eb-PE-35,1.22,72.73,2nd Heating,58.5,110.35,94.5,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-4_1,eb-PE-36,1.48,75.34,2nd Heating,58.5,112.46,95.9,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-4_2,eb-PE-37,1.47,79.3,2nd Heating,58.5,112.24,95.7,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-4_3,eb-PE-38,1.39,77.92,2nd Heating,58.5,111.77,95.2,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-4_4,eb-PE-39,1.31,77.3,2nd Heating,58.5,111.13,95.2,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+2-EBT-PE-4_5,eb-PE-61,1.48,79.24,2nd Heating,58.1,112.94,95.3,0,0,x,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-1_1,eb-PET-61,1.24,33.08,2nd Heating,202.12,254.05,230.2,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-1_2,eb-PET-22,1.31,33.94,2nd Heating,202.2,255.8,230.6,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-1_3,eb-PET-23,1.16,35.2,2nd Heating,202.01,253.44,231.6,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-1_4,eb-PET-24,1.36,32.65,2nd Heating,203.46,256.2,229.7,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-1_5,eb-PET-25,1.38,37.31,2nd Heating,203.56,255.99,232.3,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-2_1,eb-PET-26,1.3,34.07,2nd Heating,203.63,253.48,230.8,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-2_2,eb-PET-27,1.46,34.92,2nd Heating,203.37,251.68,231.5,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-2_3,eb-PET-28,1.18,33.65,2nd Heating,204.22,253.58,232.2,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-2_4,eb-PET-29,1.29,34.67,2nd Heating,203.7,254.75,232.8,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-2_5,eb-PET-30,1.38,34.87,2nd Heating,203.69,255.73,231.7,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-3_1,eb-PET-31,1.08,33.89,2nd Heating,202.0,254.2,232.0,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-3_2,eb-PET-32,1.28,33.58,2nd Heating,202.2,254.06,232.2,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-3_3,eb-PET-33,1.19,34.67,2nd Heating,203.8,253.81,233.5,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-3_4,eb-PET-34,1.23,35.54,2nd Heating,203.71,254.2,232.3,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-3_5,eb-PET-35,1.49,33.75,2nd Heating,204.47,255.06,230.4,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-4_1,eb-PET-36,1.08,34.27,2nd Heating,206.5,253.35,232.0,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-4_2,eb-PET-37,1.21,35.47,2nd Heating,204.63,254.02,232.7,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-4_3,eb-PET-38,1.07,34.0,2nd Heating,205.95,252.88,233.7,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-4_4,eb-PET-39,1.35,33.82,2nd Heating,205.91,252.34,232.3,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+1-EBT-PET-4_5,eb-PET-40,1.49,35.52,2nd Heating,205.897,255.59,234.2,1<2,0,0,s,0.0,0,0.0,0,0,Second EBT
+3-EBT-PE-1_1,eb-PE-41,1.24,73.14,2nd Heating,50.4,108.18,92.3,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-1_2,eb-PE-42,1.27,73.73,2nd Heating,51.31,110.4,93.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-1_3,eb-PE-43,1.34,72.46,2nd Heating,50.52,110.36,92.0,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-1_4,eb-PE-44,1.37,75.4,2nd Heating,50.63,109.56,93.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-1_5,eb-PE-62,1.31,75.83,2nd Heating,53.7,109.6,93.5,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-2_1,eb-PE-46,1.47,75.32,2nd Heating,52.7,110.01,93.6,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-2_2,eb-PE-47,1.25,75.64,2nd Heating,52.7,110.12,93.5,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-2_3,eb-PE-48,1.28,75.08,2nd Heating,54.0,111.56,93.0,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-2_4,eb-PE-49,1.43,75.37,2nd Heating,54.0,109.78,93.1,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-2_5,eb-PE-50,1.5,75.53,2nd Heating,54.62,109.19,93.3,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-3_1,eb-PE-51,1.18,75.17,2nd Heating,52.7,110.75,93.4,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-3_2,eb-PE-52,1.29,74.76,2nd Heating,53.1,112.4,93.9,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-3_3,eb-PE-53,1.44,74.84,2nd Heating,52.9,109.73,94.1,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-3_4,eb-PE-54,1.34,75.85,2nd Heating,53.3,112.4,93.3,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-3_5,eb-PE-55,1.37,73.48,2nd Heating,54.2,109.64,93.5,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-4_1,eb-PE-56,1.34,75.67,2nd Heating,52.5,111.68,93.4,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-4_2,eb-PE-57,1.38,74.97,2nd Heating,55.0,109.08,93.6,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-4_3,eb-PE-58,1.35,75.39,2nd Heating,55.0,112.292,93.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-4_4,eb-PE-59,1.36,72.86,2nd Heating,54.6,112.9,93.4,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PE-4_5,eb-PE-60,1.34,74.65,2nd Heating,54.5,110.33,94.0,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-1_1,eb-PET-41,1.41,36.89,2nd Heating,203.42,254.05,240.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-1_2,eb-PET-42,1.16,37.93,2nd Heating,203.3,255.886,239.5,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-1_4,eb-PET-44,1.3,37.4,2nd Heating,206.43,252.99,239.7,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-1_5,eb-PET-45,1.21,36.56,2nd Heating,205.65,255.43,241.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-2_1,eb-PET-46,1.38,36.92,2nd Heating,204.58,256.23,240.7,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-2_2,eb-PET-47,1.26,35.36,2nd Heating,204.42,255.39,240.5,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-2_3,eb-PET-48,1.41,37.2,2nd Heating,204.8,251.69,241.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-2_4,eb-PET-49,1.45,37.01,2nd Heating,203.83,254.45,241.4,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-2_5,eb-PET-50,1.34,36.71,2nd Heating,205.91,252.51,241.0,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-3_1,eb-PET-51,1.25,35.14,2nd Heating,204.73,251.67,239.9,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-3_2,eb-PET-52,1.5,35.51,2nd Heating,206.78,253.53,241.2,0,0,0,s,0.0,0,0.0,0,x,Third EBT
+3-EBT-PET-3_3,eb-PET-53,1.49,37.09,2nd Heating,205.21,250.62,240.6,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-3_4,eb-PET-54,1.26,34.31,2nd Heating,205.41,251.9,240.8,0,0,0,s,0.0,0,0.0,0,x,Third EBT
+3-EBT-PET-3_5,eb-PET-55,1.23,40.51,2nd Heating,206.0,252.0,239.9,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-4_1,eb-PET-62,1.18,36.62,2nd Heating,205.46,254.29,239.9,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-4_2,eb-PET-63,1.27,36.95,2nd Heating,201.99,251.99,239.9,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-4_3,eb-PET-64,1.3,36.87,2nd Heating,202.37,251.33,240.0,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-4_4,eb-PET-65,1.21,36.3,2nd Heating,198.86,256.1,239.3,0,0,x,s,0.0,0,0.0,0,0,Third EBT
+3-EBT-PET-4_5,eb-PET-66,1.15,37.02,2nd Heating,201.98,250.86,240.2,0,0,x,s,0.0,0,0.0,0,0,Third EBT
